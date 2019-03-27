@@ -6,21 +6,15 @@ This dataset was created for the Paper 'From Group to Individual Labels using De
 
 It contains sentences labelled with positive or negative sentiment, extracted from reviews of products, movies, and restaurants
 
-=======
-Format:
-=======
+**Format**:
 sentence \t score \n
 
-
-=======
-Details:
-=======
+**Details**
 Score is either 1 (for positive) or 0 (for negative)	
 The sentences come from three different websites/fields:
-
-imdb.com
-amazon.com
-yelp.com
+* imdb.com
+* amazon.com
+* yelp.com
 
 For each website, there exist 500 positive and 500 negative sentences, which are selected randomly.
 
