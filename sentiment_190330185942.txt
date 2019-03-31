@@ -1,0 +1,8 @@
+Reg: 10.0 Accuracy:  0.542
+Reg: 1.0 Accuracy:  0.542
+Reg: 0.1 Accuracy:  0.573
+Reg: 0.01 Accuracy:  0.624
+Reg: 0.001 Accuracy:  0.624
+Accuracy on train set is maximum for Reg= 0.01Best model is saved
+Best model loaded
+Accuracy on test set is = 0.6881889763779527
