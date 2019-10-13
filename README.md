@@ -1,5 +1,5 @@
 # Sentence sentiment analysis
-Used dataset of labelled sentences to learn a model and use the same to analyze the sentiment of new sentences<br>
+Used dataset of labelled sentences to learn a model and use the same to analyze the sentiment of new sentences.<br>
 [Dataset](https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences)
 
 This dataset was created for the Paper 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
